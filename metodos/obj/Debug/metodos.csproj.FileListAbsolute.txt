@@ -1,0 +1,10 @@
+D:\c#\classesmetodos\metodos\bin\Debug\metodos.exe.config
+D:\c#\classesmetodos\metodos\bin\Debug\metodos.exe
+D:\c#\classesmetodos\metodos\bin\Debug\metodos.pdb
+D:\c#\classesmetodos\metodos\obj\Debug\metodos.csproj.AssemblyReference.cache
+D:\c#\classesmetodos\metodos\obj\Debug\metodos.Form1.resources
+D:\c#\classesmetodos\metodos\obj\Debug\metodos.Properties.Resources.resources
+D:\c#\classesmetodos\metodos\obj\Debug\metodos.csproj.GenerateResource.cache
+D:\c#\classesmetodos\metodos\obj\Debug\metodos.csproj.CoreCompileInputs.cache
+D:\c#\classesmetodos\metodos\obj\Debug\metodos.exe
+D:\c#\classesmetodos\metodos\obj\Debug\metodos.pdb
